@@ -74,6 +74,7 @@ li {
 
 .header-inner {
   padding: 0 40px;
+  color: #f5b5d5;
 }
 
 .header-title {
@@ -88,6 +89,7 @@ li {
   font-size: 30px;
   line-height: 1;
   letter-spacing: .08em;
+  color: #f5b5d5;
 }
 
 /*--------------------------------
